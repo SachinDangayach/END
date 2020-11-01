@@ -19,4 +19,4 @@ This assignment is based on the concepts of "# Advanced Python for General Compu
 5. Using randint, random.choice and list comprehensions, write an expression that generates 15 random KADDAADDDD number plates, where KA is fixed, D stands for a digit, and A stands for Capital alphabets. 10<<DD<<99 & 1000<<DDDD<<9999 PTS:100
 6. Write the above again from scratch where KA can be changed to DL, and 1000/9999 ranges can be provided.  PTS:100
 
-Solution is provided in the Ipynb file 
+Solution is provided in the Ipynb file: https://github.com/SachinDangayach/END/blob/master/END_S3/END_S3.ipynb
