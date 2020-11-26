@@ -19,4 +19,4 @@ This assignment is based on the concepts of RNN and LSTM.
 We have implemented the LSTM from scratch. The answers to quiz are mentioned in the notebook.
 Please find the file link below-
 
-END_S5.ipynb
+END_S5.ipynb: https://github.com/SachinDangayach/END/blob/master/END_S5/END_S5.ipynb
