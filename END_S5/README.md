@@ -1,4 +1,10 @@
-# END Session 4
+# END Session 5
+
+## Group Members
+  - Anubhab Panda (pandaanubhav@gmail.com)
+  - Sachin Dangayach (sachin.dangayach@gmail.com)
+  - Sairam Subramaniam (sairam.subramaniam@gmail.com)
+
 
 This assignment is based on the concepts of RNN and LSTM.
 
